@@ -1,4 +1,4 @@
-# PREDICTIVE-SENTIMENT-ANALYSIS-FOR-TWITTER-ACCURACY
+# STOCKPORT-PREDICTIVE-SENTIMENT-ANALYSIS-FOR-TWITTER-ACCURACY
 This is about accuracy of twitter Predictive  Sentiment Analysis using Python Machine Learing.
 
 The Project is given  by Varcons Technologies Pvt Ltd ,
